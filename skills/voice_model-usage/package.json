@@ -1,0 +1,7 @@
+{
+  "name": "voice_model-usage",
+  "version": "0.1.0",
+  "entry": "main.py",
+  "description": "Model usage scaffold (placeholder)",
+  "dependencies": []
+}

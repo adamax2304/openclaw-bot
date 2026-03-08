@@ -1,0 +1,7 @@
+{
+  "name": "voice_nano-banana-pro",
+  "version": "0.1.0",
+  "entry": "main.py",
+  "description": "Nano Banana Pro scaffold (placeholder)",
+  "dependencies": []
+}

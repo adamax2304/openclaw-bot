@@ -1,0 +1,32 @@
+[
+  {
+    "channel": "@Georgead1",
+    "type": "test",
+    "content": {
+      "title": "TEST: Preliminary post to verify formatting",
+      "text": "This is a test post to verify channel publishing flow. No real data included.",
+      "source": "internal-test"
+    },
+    "scheduled_at_utc": "2026-03-08T13:18:00Z"
+  },
+  {
+    "channel": "@Georgead1_news",
+    "type": "test",
+    "content": {
+      "title": "TEST: Error channel sanity check",
+      "text": "This is a test post to verify error-channel publishing path.",
+      "source": "internal-test"
+    },
+    "scheduled_at_utc": "2026-03-08T13:18:00Z"
+  },
+  {
+    "channel": "@ggggggggggadmin_bot",
+    "type": "test",
+    "content": {
+      "title": "TEST: Admin bot control check",
+      "text": "This is a test post to verify admin bot publishing path.",
+      "source": "internal-test"
+    },
+    "scheduled_at_utc": "2026-03-08T13:18:00Z"
+  }
+]

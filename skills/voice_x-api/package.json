@@ -1,0 +1,7 @@
+{
+  "name": "voice_x-api",
+  "version": "0.1.0",
+  "entry": "main.py",
+  "description": "X/API scaffold (placeholder)",
+  "dependencies": []
+}

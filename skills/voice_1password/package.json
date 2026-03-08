@@ -1,0 +1,7 @@
+{
+  "name": "voice_1password",
+  "version": "0.1.0",
+  "entry": "main.py",
+  "description": "Local scaffolding for 1Password-related voice interactions (placeholder)",
+  "dependencies": []
+}

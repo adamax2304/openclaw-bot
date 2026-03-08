@@ -1,0 +1,7 @@
+{
+  "name": "voice_x-search",
+  "version": "0.1.0",
+  "entry": "main.py",
+  "description": "X-Search scaffold (placeholder)",
+  "dependencies": []
+}

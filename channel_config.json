@@ -1,0 +1,19 @@
+{
+  "primary_channel": "@Georgead1",
+  "secondary_channel": "@Georgead1_news",
+  "publish Schedule": {
+    "market_analysis": {
+      "frequency": "daily",
+      "time_utc": "09:00",
+      "format": "short_summary"
+    },
+    "news": {
+      "frequency": "high",
+      "format": "2-3_points_with_source"
+    },
+    "breaking_news": {
+      "frequency": "real_time",
+      "format": "headline_only"
+    }
+  }
+}
